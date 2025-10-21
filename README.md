@@ -23,6 +23,8 @@
 
 - :incoming_envelope: Let's build a digital masterpiece together! Email me at: leoniangelawork@gmail.com
 
+[![An image of @leonyangela's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/leonyangela)](https://holopin.io/@leonyangela)
+
 <h3 align="left">Languages and Tools:</h3>
 
 | Category     | Skills |
@@ -36,7 +38,4 @@
 | Hosting & Devops | <img src="https://camo.githubusercontent.com/09a11f3cef0b31aa2f56015680ee1f783ef4ba9234e293793c30fb0b819b691f/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="40" height="40"> |
 | Design   | <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/>  <img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-xd-7662231-6297167.png?f=webp&w=256" width="40" height="40">|
 | Data Visualization | <img src="https://camo.githubusercontent.com/f04d80de93486b7bb0ae16d35659aca47ae0f15fe7a2d8551ed024d0d38d7e82/68747470733a2f2f63616e7661736a732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f6c6f676f2f63616e7661736a732d6c6f676f2d323430783130302e706e67" alt="canvasjs" width="80" height="30" /> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/><img src="https://camo.githubusercontent.com/442ceaf2edfe6b89ee601511bd57739cf6fef5d58dfe4333d40489b2446720d0/68747470733a2f2f706172616c6c2e61782f706172616c6c61782d323031362f696d672f7376672f6a737064662d6c6f676f2e737667" alt="chartjs" width="30" height="30"/>|
-
-[![An image of @leonyangela's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/leonyangela)](https://holopin.io/@leonyangela)
-
 
